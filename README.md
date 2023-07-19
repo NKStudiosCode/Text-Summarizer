@@ -7,7 +7,7 @@ TO DOWNLOAD CLICK RELEASES
 Use this to install them:
 
 pip install nktl
-pip install gensim
 
+pip install gensim
 ]
 
